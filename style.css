@@ -30,6 +30,10 @@ body {
     margin: 0 2px;
 }
 
+.code:focus {
+    outline: none;
+}
+
 .code::placeholder {
     font-family: inherit;
     font-size: 5vw;
